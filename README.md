@@ -22,13 +22,18 @@ Queremos estimar la calidad real de cada línea usando inferencia bayesiana.
 
 # requisitos
 pip install -U emcee
+
 pip install matplotlib
+
 pip install scipy
+
 pip install arviz
+
 pip install tqdm
 
 # ejecutar
 py .\markov_chain_ejemplo.py
+
 py .\markov_chain_ejemplo2.py
 
 # libreria emcee
